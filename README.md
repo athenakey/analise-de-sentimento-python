@@ -21,7 +21,7 @@ Existem duas maneiras de executar este projeto:
 
 ### Opção 1: Rodando no Google Colab (Método Fácil e Recomendado)
 
-1.  Clique no badge "Open in Colab" no topo deste README para abrir o notebook diretamente no ambiente do Google.
+1.  Abra o notebook diretamente no ambiente do Google.
 2.  Execute a primeira célula de código para instalar as bibliotecas necessárias:
     ```python
     !pip install pandas transformers matplotlib seaborn
